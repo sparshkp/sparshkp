@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sparsh Kapoor</h1>
-<h3 align="center">A tech enthusiast and an an Engineering undergrad</h3>
+<h3 align="center">Software Engineer | Aspiring Data/Business Analyst | SQL • Python • Power BI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshkp&label=Profile%20views&color=0e75b6&style=flat" alt="sparshkp" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Data Structures and Algorithm**
+- 🌱 I’m currently learning **Currently building data analysis projects using Python, SQL, and Power BI**
 
-- 💬 Ask me about **Mobile app development**
+- 💬 Ask me about **Ask me about data analysis, SQL, and dashboards**
 
 - 📫 How to reach me **sparshkapoor0401@gmail.com**
 
